@@ -9,6 +9,16 @@
       "need_vpn": false,
       "required_country_access": "",
       "min_required_build": 1
+    },
+    {
+      "slug": "tvap",
+      "name": "TVap",
+      "description": "BETA VERSION",
+      "is_publish": true,
+      "need_proxy": false,
+      "need_vpn": false,
+      "required_country_access": "",
+      "min_required_build": 1
     }
   ],
   "app_update": {
